@@ -1,0 +1,6 @@
+{
+    "framework": "jasmine2",
+    "scripts": {
+        "test": "npm run sorting && opn sorting/bubblesort.spec.js && testem"
+    }
+}
